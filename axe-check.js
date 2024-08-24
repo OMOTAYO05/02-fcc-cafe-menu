@@ -31,6 +31,7 @@ async function runAccessibilityCheck() {
         process.exitCode = 1; // Set exit code to indicate failure
       } else {
         report += '\n\n##### ✅ No critical accessibility violations found.\n\n';
+        
       }
 
       report += `[${violation.help}](${violation.helpUrl})\n\n`;
