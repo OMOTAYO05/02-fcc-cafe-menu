@@ -4,7 +4,7 @@ This imports the `reset.css` file */
 
 /* For testing purposes, delete this code */
 body {
-  background-image: url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg");
+  background-image: url('https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg');
   font-family: sans-serif;
   padding: 20px;
 }
