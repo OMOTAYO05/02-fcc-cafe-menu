@@ -1,16 +1,20 @@
 # Project Name
 
-> One paragraph statement about the project.
+> A CAFE MENU PROJECT.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./fcc-cafe-menu.netlify.app_.png)
 
-Additional description of the project and its features.
+built using html and css.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5
+- `section`, `form`, `figure`, `main`, `footer`,
+- CSS,
+- - Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
