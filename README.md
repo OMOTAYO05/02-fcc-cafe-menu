@@ -11,7 +11,7 @@ Built using html and css.
 - HTML5
 - `section`, `form`, `figure`, `main`, `footer`,
 - CSS
-- `background color` 
+- `background-image`, `font-style`,`font-size`, 
 - - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
