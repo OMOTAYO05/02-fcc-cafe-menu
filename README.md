@@ -2,7 +2,7 @@
 
 > A CAFE MENU PROJECT.
 
-![02-fcc-cafe-menu](cafe_menu.png)
+![02-fcc-cafe-menu](app_screenshot.png)
 
 Built using html and css.
 
