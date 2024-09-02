@@ -10,7 +10,8 @@ Built using html and css.
 
 - HTML5
 - `section`, `form`, `figure`, `main`, `footer`,
-- CSS,
+- CSS
+`background color` 
 - - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
