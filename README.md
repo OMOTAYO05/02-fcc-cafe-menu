@@ -2,9 +2,9 @@
 
 > A CAFE MENU PROJECT.
 
-![screenshot](./fcc-cafe-menu.netlify.app.png)
+![02-fcc-cafe-menu](./fcc-cafe-menu.netlify.app_.png)
 
-built using html and css.
+Built using html and css.
 
 ## Built With
 
