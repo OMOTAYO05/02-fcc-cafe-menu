@@ -19,7 +19,7 @@ Built using html and css.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/onikosi-omotayo-eniolas-projects/02-fcc-cafe-menu)
 
 ### Development (Running locally)
 
