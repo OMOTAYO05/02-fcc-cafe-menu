@@ -2,7 +2,7 @@
 
 > A CAFE MENU PROJECT.
 
-![02-fcc-cafe-menu](./cafe-menu.png)
+![02-fcc-cafe-menu](cafe_menu.png)
 
 Built using html and css.
 
@@ -11,7 +11,7 @@ Built using html and css.
 - HTML5
 - `section`, `form`, `figure`, `main`, `footer`,
 - CSS
-`background color` 
+- `background color` 
 - - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
