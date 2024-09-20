@@ -1,20 +1,25 @@
-# Project Name
+# 02-FCC-CAFE-MENU
 
-> One paragraph statement about the project.
+> A CAFE MENU PROJECT.
 
-![screenshot](./app_screenshot.png)
+![02-fcc-cafe-menu](app_screenshot.png)
 
-Additional description of the project and its features.
+Built using html and css.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5
+- `section`, `form`, `figure`, `main`, `footer`,
+- CSS
+- `background-image`, `font-style`,`font-size`, 
+- - Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/onikosi-omotayo-eniolas-projects/02-fcc-cafe-menu)
 
 ### Development (Running locally)
 
